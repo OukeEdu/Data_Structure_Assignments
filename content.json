@@ -11,7 +11,7 @@
                 "type": "java-inline",
                 "title": "a函数",
                 "handIn": "a.java",
-                "textFromFile": "assignment1/step2.md"
+                "textFromFile": "assignment-1/step2.md"
             }
         ],
         "title": "Game of Life",
