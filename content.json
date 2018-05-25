@@ -2,31 +2,44 @@
     {
         "steps": [
             {
-                "text": "###我们这次要做xxx，请大家做完上传截图",
-                "type": "snapshot",
-                "title": "a函数",
-                "handIn": "截图1"
+                "type": "none",
+                "title": "Step0: Overview and preparation",
+                "textFromFile": "assignment1/step0.md"
             },
             {
-                "type": "java-inline",
-                "title": "a函数",
-                "handIn": "a.java",
-                "textFromFile": "assignment-1/step2.md"
-            }
-        ],
-        "title": "Game of Life",
-        "subtitle": "一个游戏"
-    },
-    {
-        "steps": [
+                "type": "none",
+                "title": "Step1: Input Grid Data Files",
+                "textFromFile": "assignment1/step1.md"
+            },
             {
-                "text": "内容",
-                "type": "java",
-                "title": "a函数",
-                "handIn": "a.java"
+                "type": "none",
+                "title": "Step2: Counting neighbors (Non-Wrapping)",
+                "textFromFile": "assignment1/step2.md"
+            },
+            {
+                "type": "none",
+                "title": "Step3: Update to Next Generation",
+                "textFromFile": "assignment1/step3.md"
+            },
+            {
+                "type": "none",
+                "title": "Step4: Counting Neighbors (Wrapping Version)",
+                "textFromFile": "assignment1/step4.md"
+            },
+            {
+                "type": "none",
+                "title": "Step5: Checking for valid input",
+                "textFromFile": "assignment1/step5.md"
+            },
+            {
+                "type": "snapshot",
+                "title": "Step6: Submitting your assignment",
+                "handIn": "Snapshot for console",
+                "textFromFile": "assignment1/step6.md"
             }
+            
         ],
         "title": "Game of Life",
-        "subtitle": "一个游戏"
+        "subtitle": "The Game of Life is a simulation originally conceived by the British mathematician J. H. Conway in 1970 and popularized by Martin Gardner in his Scientific American column. The game models the life cycle of bacteria using a two-dimensional grid of cells."
     }
 ]

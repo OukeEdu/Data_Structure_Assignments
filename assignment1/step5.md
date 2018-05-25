@@ -1,0 +1,6 @@
+This is your final step of implementing the program. You need to check for valid user input in a few places in your main method.
+
+1. When the user types the grid input file name, you must ensure that the file exists, and if not, you must re-prompt the user to enter a new file name.
+2. If the user is prompted to enter whether or not they want wrapping, and types anything other than **y** r **n** , you should re-prompt the user to enter a new answer.
+3. If the user is prompted to enter an action and types anything other than the three predefined commands of **a** , **t** , or **q** (case-insensitively), you should re-prompt the user to enter a new command.
+4. If the user is prompted to enter an integer such as the number of frames of animation for the &#39; **a**&#39; command, your code should re-prompt the user if they type a non-integer token of input. (If they do type an integer, you may assume that it is a valid value greater than 0; you don&#39;t need to explicitly test or check its value.)
