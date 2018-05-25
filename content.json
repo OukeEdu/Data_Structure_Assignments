@@ -1,0 +1,32 @@
+[
+    {
+        "steps": [
+            {
+                "text": "###我们这次要做xxx，请大家做完上传截图",
+                "type": "snapshot",
+                "title": "a函数",
+                "handIn": "截图1"
+            },
+            {
+                "type": "java-inline",
+                "title": "a函数",
+                "handIn": "a.java",
+                "textFromFile": "assignment1/step2.md"
+            }
+        ],
+        "title": "Game of Life",
+        "subtitle": "一个游戏"
+    },
+    {
+        "steps": [
+            {
+                "text": "内容",
+                "type": "java",
+                "title": "a函数",
+                "handIn": "a.java"
+            }
+        ],
+        "title": "Game of Life",
+        "subtitle": "一个游戏"
+    }
+]
