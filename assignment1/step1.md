@@ -8,11 +8,13 @@ _5 ←_ _number of rows tall_
 _9 ←_ _number of columns wide_
 
 _---------
+
 --------- ←_ _- is a dead cell_
 
 _---XXX--- ←_ _X is a living cell_
 
 _---------
+
 ---------_
 
 After your program reads the input file, you can print that file&#39;s lines to the console to test that your code works. Once this works, try reading the individual grid cells and turning them into a **Grid** object. You can print the current **Grid**&#39;s state on the console using **toString()** method provided in the grid class to see if it has the right data in it. Use a simple test case, e.g. **simple.txt**.
