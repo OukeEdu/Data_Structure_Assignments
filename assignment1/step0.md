@@ -18,25 +18,18 @@ Your main method should begin by a welcome message. After that, your program sho
 
 Note that you can find and copy all the message and prompts in the example files provided.You **must** make use of the **Grid** class provided as you implement your game of life simulation (see the following steps for specific instructions.)
 
-Example1: [http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-1.txt](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-1.txt)
+[Example1](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-1.txt)
+[Example2](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-2.txt)
+[Example3](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-3.txt)
 
-Example2: [http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-2.txt](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-2.txt)
+[Example4](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-4.txt)
+[Example5](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-5.txt)
+[Example6](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-6.txt)
 
-Example3: [http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-3.txt](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-3.txt)
+[Example7](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-7.txt)
+[Example8](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-8.txt)
+[Example9 (tick wrap)](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-9.txt)
 
-Example4: [http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-4.txt](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-4.txt)
-
-Example5: [http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-5.txt](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-5.txt)
-
-Example6: [http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-6.txt](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-6.txt)
-
-Example7: [http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-7.txt](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-7.txt)
-
-Example8: [http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-8.txt](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-8.txt)
-
-Example9(tick wrap): [http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-9.txt](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-9.txt)
-
-(We can provide our eclipse console output and many other examples.)
 
 ## Implementation Using Grid Class
 
