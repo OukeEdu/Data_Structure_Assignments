@@ -4,17 +4,12 @@ In each input file, the first two lines will contain integers r and c representi
 
 The input files will exist in the same working directory as your program. For example, the following text might be the contents of a file simple.txt, a 5x9 grid with 3 initially live cells (the arrow notes are not part of the actual file):
 
-_5 ←_ _number of rows tall_
-_9 ←_ _number of columns wide_
-
-_---------
-
---------- ←_ _- is a dead cell_
-
-_---XXX--- ←_ _X is a living cell_
-
-_---------
-
----------_
+5 ← number of rows tall
+9 ← number of columns wide 
+---------
+--------- ← - is a dead cell 
+---XXX--- ← X is a living cell 
+---------
+--------- 
 
 After your program reads the input file, you can print that file&#39;s lines to the console to test that your code works. Once this works, try reading the individual grid cells and turning them into a **Grid** object. You can print the current **Grid**&#39;s state on the console using **toString()** method provided in the grid class to see if it has the right data in it. Use a simple test case, e.g. **simple.txt**.
