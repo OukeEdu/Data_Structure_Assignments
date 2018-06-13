@@ -1,5 +1,3 @@
-Thanks to Julie Zelenski for the idea and Jerry Cain, Keith Schwarz, Cynthia Lee and Marty Stepp for revisions. These are wonderful lecturers and professors from Stanford University.
-
 For your first assignment... We make the Game of Life!
 
  ![](step0-1.png)
@@ -21,11 +19,9 @@ Note that you can find and copy all the message and prompts in the example files
 [Example1](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-1.txt)
 [Example2](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-2.txt)
 [Example3](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-3.txt)
-
 [Example4](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-4.txt)
 [Example5](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-5.txt)
 [Example6](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-6.txt)
-
 [Example7](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-7.txt)
 [Example8](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-8.txt)
 [Example9 (tick wrap)](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/assnFiles/life/output/expected-output-9.txt)
